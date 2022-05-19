@@ -2,3 +2,4 @@ Bear
 Lion
 Cat
 Cockroach
+Ostrich
